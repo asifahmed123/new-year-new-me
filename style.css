@@ -1,0 +1,89 @@
+*{
+     margin: 0;
+     font-family: 'Poppins', sans-serif;
+}
+/* header start */
+.banner{
+     background-image: url(/images/banner/banner3.png);
+     background-size: cover;
+     background-position: center;
+     height: 100vh;
+     display: flex;
+     align-items: center;
+}
+.banner-description{
+     text-align: right;
+     width: 80%;
+     margin: 0 auto;
+}
+.banner-details{
+     height: 50vh;
+     color: white;
+}
+.banner-details h1{
+     font-size: 60px;
+}
+.banner-details p{
+     font-weight: 100;
+}
+.btn{
+     padding: 20px 30px;
+     font-weight: 800;
+     font-size: 20px;
+     color: rgb(3, 131, 173);
+     border-radius: 5px;
+     border: none;
+     margin: 20px 0;
+}
+/* header end */
+/* failure section start */
+.failure-sec{
+     display: flex;
+     justify-content:center;
+     align-items: center;
+     margin: 100px 0;
+}
+.failure-details{
+       margin: 0 60px;
+}
+.failure-details h3{
+     font-size: 35px;
+}
+.failure-details li{
+     list-style: none;
+     list-style-image: url(/images/check.svg);
+     margin: 20px 0;
+}
+.failure-details p{
+     margin-top: 15px;
+}
+/* failure section end */
+
+/* my plan start */
+.plan-title{
+     text-align: center;
+     font-size: 35px;
+     margin: 30px 0;
+}
+.plans{
+     margin: 0 20px;
+     text-align: center;
+     height: 30vh;
+     width: 40vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.plans h3 {
+     font-size: 22px;
+     font-weight:bolder
+}
+.plans h5{
+     font-size: 18px;
+     font-weight: lighter;
+}
+.future-plan{
+     display: flex;
+     justify-content: center;
+}
+/* my plan end */
