@@ -87,3 +87,25 @@
      justify-content: center;
 }
 /* my plan end */
+/* contact section start */
+.contact-sec{
+     font-size: 30px;
+     background-image: linear-gradient(to left ,rgba(0, 0, 0, 0.1), rgba(14, 106, 227, 0.7)),url(/images/watch.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 80%;
+     margin: 0 auto;
+     color: white;
+     padding: 20px 30px;
+}
+
+/* contact section end */
+/* footer start */
+.footer-container{
+     display: flex;
+     border: 4px solid red;
+     height: 70vh;
+     justify-content: space-around;
+     align-items: center;
+}
+/* footer end */
