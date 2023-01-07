@@ -4,7 +4,7 @@
 }
 /* header start */
 .banner{
-     background-image: url(/images/banner/banner3.png);
+     background-image: url(./images/banner/banner3.png);
      background-size: cover;
      background-position: center;
      height: 100vh;
@@ -51,7 +51,7 @@
 }
 .failure-details li{
      list-style: none;
-     list-style-image: url(/images/check.svg);
+     list-style-image: url(./images/check.svg);
      margin: 20px 0;
 }
 .failure-details p{
