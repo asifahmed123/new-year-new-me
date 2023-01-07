@@ -90,7 +90,7 @@
 /* contact section start */
 .contact-sec{
      font-size: 30px;
-     background-image: linear-gradient(to left ,rgba(0, 0, 0, 0.1), rgba(14, 106, 227, 0.7)),url(/images/watch.png);
+     background-image: linear-gradient(to left ,rgba(0, 0, 0, 0.1), rgba(14, 106, 227, 0.7)),url(./images/watch.png);
      background-repeat: no-repeat;
      background-size: cover;
      width: 80%;
